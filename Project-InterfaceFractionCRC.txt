@@ -1,0 +1,18 @@
+Fraction
+
+Responsibilities:
+   converts fractions to smallest whole values
+   converts negative denominator to negative numerator
+   converts negative denominator and numerator to positive fraction
+   add fractions
+   subtract fractions
+   multiply two fractions
+   divide two fractions
+   generate the reciprocal of a fraction
+   compare two fractions
+   find biggest fraction
+   convert fractions to string
+   find GCD of two integers
+
+Collaborations:
+   IFractions
